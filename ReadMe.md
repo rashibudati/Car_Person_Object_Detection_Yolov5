@@ -17,6 +17,6 @@
 ### Speed: 0.3ms pre-process, 14.3ms inference
 
 ### Conclusion and Recommendations:
-### The model is performing decently on the test set. The model performace can be improved further by: 
+#### The model is performing decently on the test set. The model performace can be improved further by: 
 #### 1. Add more data for training and fine tune the model.
 #### 2. Use different model.
